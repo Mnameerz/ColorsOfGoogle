@@ -1,2 +1,2 @@
 # ColorsOfGoogle
-Created with CodeSandbox
+Animation Project created using Vanilla CSS and JS
